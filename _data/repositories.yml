@@ -1,12 +1,6 @@
-github_users:
-  - torvalds
-  - alshedivat
-
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - navneetraju/Coconut_Farm_Detection
+  - navneetraju/Simple-Compiler-using-Lex-and-Yacc
+  - navneetraju/Erroneous-String-Matching-With-Hindi-Words
+  - navneetraju/ViStA-Benchmark
+  - dsci551-project-team-24/realtime-airline-distributed-database
