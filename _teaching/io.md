@@ -1,10 +1,8 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: PESU I/O Fundamentals of Deep Learning
+importance: 4
+semester: Spring 2020
 ---
 
 Every project has a beautiful feature showcase page.

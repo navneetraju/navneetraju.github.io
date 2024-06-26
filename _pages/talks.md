@@ -7,8 +7,11 @@ nav: true
 nav_order: 5
 ---
 
-### Guest Lectures
+- A talk on being successful as a new grad at Intuit
+    - Host: [Intuit India](https://www.intuit.com/)
+    - Location: Bangalore, India
+    - Date: 22nd May 2023
 
-- Data analysis and model building with sensitive content for PESU CS: Data Analytics
-    - Host Instructor: [Dr. Gowri Srinivasa](https://staff.pes.edu/nm1084/)
-    - Fall 2023 / [Slides](https://docs.google.com/presentation/d/1sIcbwlwae_CSZv1HwvbtY0iQJbqN-sgF7U0N0lTiDOU/edit#slide=id.gc6f919934_0_0)
+    <!-- Image with 50% size aligned in center -->
+    <br/>
+    <img src="/assets/img/intuit_talk.jpg" alt="example image" class="img-fluid rounded z-depth-1" style="width:80%; display:block; margin:auto;">
