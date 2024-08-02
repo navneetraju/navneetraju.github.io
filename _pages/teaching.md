@@ -23,4 +23,4 @@ nav_order: 6
 ### Teaching assistantship
 - Head TA for PESU CS UE18CS354 : Cloud Computing Laboratory
     - Primary Instructor: [Venkatesh Prasad](https://staff.pes.edu/nm1445/)
-    - Spring 2021
+    - Spring 2021 / [Syllabus](https://docs.google.com/document/d/1PZNFKv6GL1_AeG01XoJh5H8UU4B1adxJoFBlpl_SNCs/edit#bookmark=id.gjdgxs)
