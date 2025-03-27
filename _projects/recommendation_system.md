@@ -1,4 +1,11 @@
-# Building a Hybrid Recommendation System for Yelp Data: A Deep Dive
+---
+layout: page
+title: Hybrid Recommendation System for Yelp Data
+img: assets/img/projects/rec_system/thumbnail.png
+importance: 2
+---
+
+# Hybrid Recommendation System for Yelp Data
 
 ## Introduction
 
