@@ -2,7 +2,8 @@
 layout: page
 title: Hybrid Recommendation System for Yelp Data
 img: assets/img/projects/rec_system/thumbnail.png
-importance: 2
+importance: 1
+category: Cloud Computing and Big Data
 ---
 
 # Hybrid Recommendation System for Yelp Data
