@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SDSS Data Classification: An End-to-End Machine Learning Approach
+title: SDSS Data Classification
 img: assets/img/projects/sdss/thumbnail.png
 importance: 4
 category: Machine Learning
