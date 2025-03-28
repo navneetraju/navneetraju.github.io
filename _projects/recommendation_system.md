@@ -158,6 +158,9 @@ Root Mean Squared Error (RMSE): 0.9739361309397205
 ## Conclusion
 
 The hybrid recommendation system effectively combined collaborative filtering techniques and advanced machine learning methodologies, delivering highly accurate predictions for Yelp data. Leveraging the extensive Yelp dataset and Apache Spark's capabilities significantly enhanced the system's performance.
+## GitHub Repository and Code
+
+The complete codebase for the recommendation system is available on GitHub: [yelp-recommendation-system](https://github.com/navneetraju/yelp-recommendation-system)
 
 ## Future Directions
 
