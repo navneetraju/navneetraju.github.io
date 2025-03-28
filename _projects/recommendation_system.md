@@ -6,8 +6,6 @@ importance: 1
 category: Cloud Computing and Big Data
 ---
 
-# Hybrid Recommendation System for Yelp Data
-
 ## Introduction
 
 In the modern digital landscape, recommendation systems play a pivotal role in personalizing user experiences. From suggesting movies on Netflix to recommending restaurants on Yelp, these systems help users discover content that aligns with their preferences while boosting platform engagement.
@@ -17,7 +15,7 @@ This blog delves into the development of a **hybrid recommendation system** buil
 1. **Item-Based Collaborative Filtering**
 2. **Model-Based Collaborative Filtering**
 
-The final model achieves impressive performance, with a Root Mean Squared Error (RMSE) of **0.977**, showcasing its effectiveness in predicting user ratings accurately.
+The final model achieves impressive performance, with a Root Mean Squared Error (RMSE) of **0.97**, showcasing its effectiveness in predicting user ratings accurately.
 
 ## Problem Statement
 
@@ -109,8 +107,10 @@ This component utilizes machine learning to predict ratings based on user and bu
 - Hyperparameters were optimized through extensive grid search.
 
 <figure class="figure text-center">
-    {% include figure.liquid loading="eager" path="assets/img/projects/rec_system/rec_model_based_flow.png" title="Model Based Recommendation Flow" class="img-fluid rounded z-depth-1" %}
-    <figcaption class="figure-caption">Model Based Recommendation Flow Flow</figcaption>
+    <a href="assets/img/projects/rec_system/rec_model_based_flow.png" target="_blank">
+        {% include figure.liquid loading="eager" path="assets/img/projects/rec_system/rec_model_based_flow.png" title="Model Based Recommendation Flow" class="img-thumbnail rounded" %}
+    </a>
+    <figcaption class="figure-caption">Click to enlarge: Model Based Recommendation Flow</figcaption>
 </figure>
 
 ### Meta-Learner
