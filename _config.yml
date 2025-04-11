@@ -171,6 +171,10 @@ external_sources:
         published_date: 2020-03-08
       - url: https://www.linkedin.com/pulse/tensorflow-dev-summit-2020-tf-quantum-navneet-raju/?trackingId=YQJPDYulR7yxivb6a%2BU25w%3D%3D
         published_date: 2020-03-13
+  - name: Medium Article
+    posts:
+      - url: https://medium.com/@navneetraju66/not-just-another-attention-from-scratch-blog-a1439d09e47a
+        published_date: 2025-04-11
 
 # -----------------------------------------------------------------------------
 # Collections
