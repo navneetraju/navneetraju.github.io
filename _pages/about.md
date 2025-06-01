@@ -14,11 +14,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a graduate student at the University of Southern California pursuing a Master's in Applied Data Science. I have previously worked as a software engineer at the Intuit Data Exchange organisation at [Intuit](https://www.intuit.com/), where I worked on building document extraction and classification solutions.
+I build and ship ML systems that work at scale—across industry, research, and open source. Currently finishing my MS in Data Science at USC, I’ve deployed production NLP and document AI at Intuit (AutoML pipelines, BERT, PySpark, Kubeflow, Sagemaker) powering TurboTax, QuickBooks, and ProSeries. My work has replaced manual processes, delivered major cost savings, and scaled to millions of users.
 
-I am passionate about data science, machine learning, and artificial intelligence. 
+**Research & Projects**:
 
-Some of the areas I have worked on include:
-- **Natural Language Processing**: Sentiment Analysis, Text Classification, Named Entity Recognition
-- **Computer Vision**: Object Detection, Image Classification, Image Segmentation
-- **Big data and Cloud Computing**: Real-time data processing, Data Pipelines, Cloud Computing, Benchmarking
+- SwarmGuard: SOTA multimodal misinformation detection (GNN, vision, BERT)
+
+- ViStA: Open video streaming & analytics benchmark (ISPASS)
+
+- VetaQL: Graph-based semantic video querying & recsys (ASIANCON)
+
+- U-Net segmentation for remote sensing (IGARSS, ISRO collab)
+
+- Shipped open-source projects: recsys, sentiment analysis, and real-time flight DBs (Spark/Kafka/MySQL/Elastic)
+
+- Published in IGARSS, ISPASS, and ASIANCON.
