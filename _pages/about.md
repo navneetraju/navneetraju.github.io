@@ -20,6 +20,8 @@ I build and ship ML systems that work at scale—across industry, research, and 
 
 - SwarmGuard: SOTA multimodal misinformation detection (GNN, vision, BERT)
 
+- Between Silence and Speech: New evaluation and mitigation framework for political bias in LLMs
+
 - ViStA: Open video streaming & analytics benchmark (ISPASS)
 
 - VetaQL: Graph-based semantic video querying & recsys (ASIANCON)
